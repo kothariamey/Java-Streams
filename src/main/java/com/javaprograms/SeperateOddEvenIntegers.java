@@ -13,7 +13,7 @@ public class SeperateOddEvenIntegers {
         implement();
     }
 
-    //Given a list of integers, separate odd and even numbers
+    //Given a list of integers, separate odd and even numbers ?
     public static void implement(){
         List<Integer> listOfIntegers = Arrays.asList(71, 18, 42, 21, 67, 32, 95, 14, 56, 87);
 
